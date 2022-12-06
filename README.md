@@ -1,2 +1,2 @@
 # jobpostingsproj
-Skills required for most Data Science jobs based on the job postings, and NEU courses that help master those skills.
+Most requested domain area skill sets and topics demanded for eight thousand Data Science jobs postings and Northeatsern University Computer science and data science courses that help master those skills.
